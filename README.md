@@ -2,3 +2,6 @@
 
 Chaos-based image encryption algorithm implement in matlab. 2015年12月06日
 
+
+![Alt Text](https://github.com/wyanglau/ECE1512-CourseProject-Chaos-based-Image-Encryption/blob/master/screenshots/pic-quality-all.jpg?raw=true)
+
